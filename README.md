@@ -175,7 +175,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**  
-GitHub: [@Dasari Muralidhar](https://github.com/muralidhar24)
+GitHub: [@muralidhar24](https://github.com/muralidhar24)
 
 ---
 
